@@ -2,8 +2,8 @@
     "name" : "LEET Booking MASTER",
     "version" : "1.0.0",
     "update" : {
-        "updated" : true,
-        "version" : "1.5.0",
-        "update_link" : ""
+        "updated" : false,
+        "version" : "1.0.0",
+        "update_link" : "/"
     }
 }
