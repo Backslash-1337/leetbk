@@ -5,5 +5,12 @@
         "updated" : false,
         "version" : "1.0.0",
         "update_link" : "/"
-    }
+    },
+    "users" : [
+        "abahdir",
+        "wben-sai",
+        "mbani",
+        "mamoussa",
+        "zel-bagh"
+    ]
 }
